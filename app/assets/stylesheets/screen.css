@@ -211,7 +211,8 @@
         -ms-background-clip:padding-box;
         -khtml-background-clip:padding-box;
         background-clip:padding-box;
-        text-shadow:rgba(0, 0, 0, 0.6) 0 -1px;color:#fff;
+        text-shadow:rgba(0, 0, 0, 0.6) 0 -1px;
+        color:#fff;
         margin:0 auto;position:absolute;
         top:-51px;
         left:0;
